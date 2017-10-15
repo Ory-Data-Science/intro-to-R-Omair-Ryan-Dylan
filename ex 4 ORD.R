@@ -17,3 +17,5 @@ abs_value <- sqrt(2.6)
 abs_rounded_value <- (round(abs_value, digits = 2))
 print(abs_rounded_value)
 # [1] 1.61
+print(round(sqrt(2.6), digits = 2))
+# 1.61
