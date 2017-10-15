@@ -13,3 +13,6 @@ tolower(species)
 # result ="species"
  toupper(species)
 # result = "SPECIES"
+abs_value <- sqrt(2.6)
+abs_rounded_value <- (round(abs_value, digits = 2))
+# [1] 1.61
