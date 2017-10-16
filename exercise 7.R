@@ -20,5 +20,6 @@ print(sum(number_of_birds))
 print(min(number_of_birds))
 # 0
 #What is the largest number of birds counted?
-
+print(max(number_of_birds))
+# 900
 #What is the average number of birds seen at a site?
