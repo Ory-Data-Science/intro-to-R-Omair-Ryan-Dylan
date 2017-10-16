@@ -11,4 +11,4 @@ print(shrubs%>%length*width*height)
 # %>% pipe basically this is piping date
 # It draws data (preloading)so work with it downstream
 #  print(shrubs%>%length*width*height)
-[1] 49.92 66.88 13.20 27.00 49.60 33.60 32.40  4.60 60.00 34.56
+#[1] 49.92 66.88 13.20 27.00 49.60 33.60 32.40  4.60 60.00 34.56
