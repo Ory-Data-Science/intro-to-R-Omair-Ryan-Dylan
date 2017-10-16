@@ -5,3 +5,5 @@ print(volume <- (length * width * height))
 # 27.456 35.112  8.910 20.250 38.440 21.000 15.390  1.265 52.500 25.056
 print(sum(volume))
 #245.379
+print(height[length>2.5])
+# 2.2 1.5 4.0 7.5 3.2
