@@ -14,7 +14,8 @@ print(number_of_birds[42])
 print(last(number_of_birds))
 #11
 #What is the total number of birds counted across all of the sites?
-
+print(sum(number_of_birds))
+# 4366
 #What is the smallest number of birds counted?
 
 #What is the largest number of birds counted?
