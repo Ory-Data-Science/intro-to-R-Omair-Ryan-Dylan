@@ -23,3 +23,5 @@ print(min(number_of_birds))
 print(max(number_of_birds))
 # 900
 #What is the average number of birds seen at a site?
+print(mean(number_of_birds))
+#71.57377
